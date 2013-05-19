@@ -1,4 +1,4 @@
-act
+ash
 ===
 
-A simple python shell wrapper
+A simple python shell wrapper.
